@@ -12,7 +12,7 @@ public class Dog {
 	}
 	
 	public void ladrar () {
-		System.out.println("guau guau dice el perro");
+		System.out.println("guau guau dice el perrote");
 	}
 	
 	public void realizarActividad () {
